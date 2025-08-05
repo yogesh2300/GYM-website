@@ -6,7 +6,7 @@ A clean, responsive website for gyms and fitness centers. Showcases services, tr
 
 ## 🔍 Preview
 
-![Gym Website Preview](C:\Users\91751\Desktop\GYM\frontend\public\demo.png)  
+![Gym Website Preview](frontend\public\demo.png)  
 
 
 ---
